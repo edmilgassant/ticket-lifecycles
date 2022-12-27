@@ -30,7 +30,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://i.imgur.com/8lYxnmF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Acting as a made up admin. Opening and assigning a ticket to an agent I created named Karen. In the picture above shows customers are having banking issues, showing a 404 error when browsing their online banking. Pretty cool setting and assigning a made up ticket to an agent!
+Created a made up admin named Jane. Opening and assigning a ticket to an agent I created named Karen. In the picture above shows customers are having banking issues, showing a 404 error when browsing their online banking. Pretty cool setting and assigning a made up ticket to an agent!
 </p>
 <br />
 
