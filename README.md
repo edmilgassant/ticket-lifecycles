@@ -43,9 +43,9 @@ Started with the ticket indicating that the entire mobile banking is down which 
 <br />
 
 <p>
-<img src="https://i.imgur.com/CsVf7Lc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/FhZgrTN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Here is a list of agents and a list of tickets to be resolved. Along with topics of issues created.
+Using active communication to keep the team updated. As always, having a little fun hearing from your friendly neighborhood "Spider-Man" fixing and resolving the issue. Just an example of communication and working the issue until all tickets are resolved.
 </p>
 <br />
