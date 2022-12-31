@@ -19,7 +19,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Ticket Lifecycle Stages</h2>
 
-- Intake
+- Create user tickets for agents
 - Assignment and Communication
 - Working the Issue
 - Resolution
@@ -27,18 +27,18 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/8lYxnmF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/yQN6mKL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Created a made up admin named Jane. Opening and assigning a ticket to an agent I created named Karen. In the picture above shows customers are having banking issues, showing a 404 error when browsing their online banking. Pretty cool setting and assigning a made up ticket to an agent!
+Got 3 tickets created as a user with each having different problems to be resolved. Logged in as Black Adam since I gave him access as a sys admin to see the tickets.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/PTm7BEK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DCCX0fi.png" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Creating a severe level of a ticket to an agent which shows how difficult and/or when the ticket should be resolved. Assigned this to a different agent, created multiple agents which I'll show on the next picture. Along with other tickets.
+Started with the ticket indicating that the entire mobile banking is down which is a pretty big deal. Changed priority from normal to emergency, chose SLA as a SEV-A, and transferred this ticket to the sys admin. Support could take care of it, it depends on their skill level but with this ticket being a business impact, it was a good idea to transfer to sys admin
 </p>
 <br />
 
