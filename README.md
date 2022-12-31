@@ -46,6 +46,6 @@ Started with the ticket indicating that the entire mobile banking is down which 
 <img src="https://i.imgur.com/FhZgrTN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Using active communication to keep the team updated. As always, having a little fun hearing from your friendly neighborhood "Spider-Man" fixing and resolving the issue. Just an example of communication and working the issue until all tickets are resolved.
+Using active communication to keep the team updated. As always, having a little fun hearing from your friendly neighborhood "Spider-Man" fixing and resolving the issue. Just an example of communication and working the issue until all tickets are resolved. Kind of seeing the cycles and experimenting with a glimpse of how it would be in a real life setting as a Help Desk Professional. 
 </p>
 <br />
